@@ -4,4 +4,4 @@ SELECT
   first_name,
   last_name
 FROM patients
-where allergies is NULL;
+WHERE allergies is NULL;
