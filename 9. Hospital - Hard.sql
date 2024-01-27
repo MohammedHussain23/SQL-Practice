@@ -1,4 +1,4 @@
-/* Show first name, last name, and gender of patients whose gender is 'M' */
+/* For each day display the total amount of admissions on that day. Display the amount changed from the previous date. */
 
 SELECT
   admission_date,
